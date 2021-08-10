@@ -12,7 +12,8 @@
 
 # misc
 .DS_Store
-.idea/
+.idea
+/.idea
 
 # umi
 /src/.umi
